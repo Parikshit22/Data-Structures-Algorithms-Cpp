@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1561558466 source:f:\new folder (2)\modifinginbuiltsortfunction\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<string.h>
+
+1561558087 source:f:\new folder (2)\modifinginbuiltsortfunction\src\stack.cpp
+	"Stack.h"
+
+1561558087 f:\new folder (2)\modifinginbuiltsortfunction\include\stack.h
+

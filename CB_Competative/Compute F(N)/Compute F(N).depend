@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590837909 source:f:\codes\cb_competative\compute f(n)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

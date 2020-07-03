@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562257329 source:f:\new folder (2)\stl_hashmap\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

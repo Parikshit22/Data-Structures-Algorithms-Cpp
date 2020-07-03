@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561953002 source:f:\new folder (2)\mafia syn binarytree\main.cpp
+	<iostream>
+	<queue>
+

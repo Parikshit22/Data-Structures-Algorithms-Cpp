@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558786032 source:f:\new folder (2)\practicesess\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+	<cstring>
+	<vector>
+

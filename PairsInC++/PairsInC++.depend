@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561460834 source:f:\new folder (2)\pairsinc++\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562068055 source:f:\new folder (2)\nearestcarproblem\main.cpp
+	<iostream>
+	<queue>
+	<math.h>
+

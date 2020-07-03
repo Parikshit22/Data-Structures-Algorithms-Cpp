@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560082151 source:f:\new folder (2)\randomlyshufflingofarray\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560080345 source:f:\new folder (2)\quicksort\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559662768 source:f:\new folder (2)\segmentedseive\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

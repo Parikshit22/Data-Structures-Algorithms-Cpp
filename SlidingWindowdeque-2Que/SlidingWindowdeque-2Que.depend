@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561705475 source:f:\new folder (2)\slidingwindowdeque-2que\main.cpp
+	<iostream>
+	<deque>
+

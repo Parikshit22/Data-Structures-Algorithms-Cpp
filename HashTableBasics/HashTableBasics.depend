@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562209641 source:f:\new folder (2)\hashtablebasics\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<math.h>
+

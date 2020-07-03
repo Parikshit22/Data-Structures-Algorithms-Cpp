@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561611467 source:f:\new folder (2)\isstringbalanced-stack\main.cpp
+	<iostream>
+	<stack>
+

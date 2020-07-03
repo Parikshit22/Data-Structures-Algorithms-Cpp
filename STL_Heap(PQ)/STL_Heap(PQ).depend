@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562051137 source:f:\new folder (2)\stl_heap(pq)\main.cpp
+	<iostream>
+	<queue>
+	<functional>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562830507 source:f:\new folder (2)\greedybalife\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

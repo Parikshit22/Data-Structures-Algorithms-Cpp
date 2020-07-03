@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560351007 source:f:\new folder (2)\fpurmutationofstring\main.cpp
+	<iostream>
+	<string.h>
+

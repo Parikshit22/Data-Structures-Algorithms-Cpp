@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561623944 source:f:\new folder (2)\reverseofstack\main.cpp
+	<iostream>
+	<stack>
+

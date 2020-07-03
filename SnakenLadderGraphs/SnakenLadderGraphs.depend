@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562332403 source:f:\new folder (2)\snakenladdergraphs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584256647 source:f:\new folder (2)\practice\main.cpp
+	<iostream>
+	<queue>
+	<cstring>
+	<stack>
+	<deque>
+	<unordered_map>
+	<list>
+	<algorithm>
+
+1590303050 source:f:\codes\practice\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+

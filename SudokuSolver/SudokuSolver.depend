@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561298331 source:f:\new folder (2)\sudokusolver\main.cpp
+	<iostream>
+	<math.h>
+

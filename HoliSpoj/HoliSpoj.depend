@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562510327 source:f:\new folder (2)\holispoj\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

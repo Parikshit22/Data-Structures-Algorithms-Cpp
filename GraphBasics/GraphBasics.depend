@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562257890 source:f:\new folder (2)\graphbasics\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
