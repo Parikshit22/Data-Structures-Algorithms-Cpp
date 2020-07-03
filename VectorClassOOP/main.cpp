@@ -78,6 +78,9 @@ int main()
     v1.Push_back('y');
     v1.Push_back('u');
     v1.Push_back('r');
+    v1.Push_back('s');
+    v1.pop_back();
+    v1.print();
     v[2]= 'c';
     cout<<v[2]<<endl;;
     v.Add(v1);
