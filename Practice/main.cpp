@@ -5,19 +5,16 @@ using namespace std;
 
 
 int main(){
-    ll n;
-    cin>>n;
-    int sum = 0;
-    int b= 1;
-    int a;
-    while(true){
-        a=n/(pow(5,b));
-        if(a<=0){
-            break;
+    int arr[3][10];
+    for(int i=0;i<3;i++){
+        for(int j=0;j<10;j++){
+            arr[i][j] = j;
         }
-        sum+=a;
-        b++;
     }
-    cout<<sum<<endl;
-    return 0;
+    for(int i=0;i<3;i++){
+        for(int j=0;j<10;j++){
+            cout<<arr[i][j]<<" ";
+        }
+        cout<<endl;
+    }
 }

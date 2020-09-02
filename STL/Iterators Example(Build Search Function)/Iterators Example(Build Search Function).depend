@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593923235 source:f:\codes\stl\iterators example(build search function)\main.cpp
+	<iostream>
+	<list>
+
